@@ -76,11 +76,18 @@ button{
     color: white;
 }
 
-.operators .equal,.operators .clear{
+.operators .equal{
     height: 25%;
     background:lightgray;
     color: black;
 }
+
+.operators .clear, .operators .back{
+    height: 12.5%;
+    background:lightgray;
+    color: black;
+}
+
 
 /* .bottom{
     height: 10%;
